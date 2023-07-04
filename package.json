@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DandiLesmana25/nodejs-basic/issues"
   },
-  "homepage": "https://github.com/DandiLesmana25/nodejs-basic#readme"
+  "homepage": "https://github.com/DandiLesmana25/nodejs-basic#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
