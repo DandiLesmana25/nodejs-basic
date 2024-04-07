@@ -1,12 +1,11 @@
 class Tiger {
-    constructor() {
-        this.strength = Math.floor(Math.random() * 100);
-    }
+  constructor() {
+    this.strength = Math.floor(Math.random() * 100);
+  }
 
-    growl() {
-        console.log('grrrrr')
-    }
+  growl() {
+    console.log('grrrrr');
+  }
 }
-
 
 module.exports = Tiger;

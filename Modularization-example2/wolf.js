@@ -1,11 +1,11 @@
 class Wolf {
-    constructor() {
-        this.strength = Math.floor(Math.random() * 100);
-    }
+  constructor() {
+    this.strength = Math.floor(Math.random() * 100);
+  }
 
-    howl() {
-        console.log('owwooooo!!!!')
-    }
+  howl() {
+    console.log('owwooooo!!!!');
+  }
 }
 
 module.exports = Wolf;
